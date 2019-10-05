@@ -1,0 +1,3 @@
+* file paths in linux
+   * A file path provides a location in on a computer or on the internet. Directories and folders have paths to access files, images and programs. In Linux, users input path via commands and this tells the program which directories it can go into to locate files. 
+   * Example of a file path In linux: /home/User/bin 3/
