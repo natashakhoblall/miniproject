@@ -1,0 +1,4 @@
+•	Feature: Added definition for Repository
+o	Task: When you are working with Git, you essentially have two different types of repositories including Local & Remote.
+?	Local repository: It is just a file location residing on your system. When you git commit your code, a snapshot is created in your local repository
+?	Remote repository: A remote repository resides somewhere outside your system, on a remote machine/server. This is very important when you are working with multiple people. This is the place where everyone will be sharing their code.
