@@ -1,0 +1,2 @@
+
+o	Task: a commit adds the latest changes to a certain part of the source code to the repository, making these changes part of the head revision of the repository.
