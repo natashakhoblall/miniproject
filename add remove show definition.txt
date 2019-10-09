@@ -1,0 +1,4 @@
+
+o	Task: essentially, manages the set of repositories whose branches you track.
+o	Task: Rm Remove the remote named <name>. All remote-tracking branches and configuration settings for the remote are removed.
+o	Task: Add - Adds a remote named for the repository at a certain address.
