@@ -1,0 +1,2 @@
+
+o	Task: The git status command displays the state of the working directory and the staging area. It lets you see which changes have and haven’t been staged as well as which files aren't being tracked by Git. 
