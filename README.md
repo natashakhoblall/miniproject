@@ -4,7 +4,8 @@ Natasha Khoblall and Omar Awad
 
 CHANGELOG: 
 
-Completed by Natasha - 
+
+COMPLETED BY NATASHA - 
 
 Image: Example of history 
 
@@ -32,7 +33,9 @@ Feature: Tab Key
 
 Feature: Usage of vi 
 
-Completed by Omar - 
+
+
+COMPLETED BY OMAR - 
 
 Feature: Remote Add/Remove/Show
 
