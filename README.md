@@ -1,10 +1,10 @@
 **This is mini project 1**
 Group Members:
-Natasha Khoblall, Omar Awad 
+Natasha Khoblall and Omar Awad 
 
 CHANGELOG: 
 
-Natasha. - 
+Completed by Natasha - 
 Image: Example of history 
 Image: Example of pwd and ~
 Image: Example using vi
@@ -19,7 +19,7 @@ Feature: Merge Pull Requests
 Feature: Tab Key 
 Feature: Usage of vi 
 
-Omar - 
+Completed by Omar - 
 Feature: Remote Add/Remove/Show
 Feature: Branch and Image
 Feature: Checkout
