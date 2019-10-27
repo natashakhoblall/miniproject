@@ -6,17 +6,29 @@ CHANGELOG:
 
 Completed by Natasha - 
 Image: Example of history 
+
 Image: Example of pwd and ~
+
 Image: Example using vi
+
 Feature: Text Template
+
 Feature: Added Arrows
+
 Feature: Days 
+
 Feature: Command definitions 
+
 Feature: Image
+
 Feature: How Git, Docker, Automated Testing, Continuous Integration can improve a company
+
 Feature: Paths
+
 Feature: Merge Pull Requests
+
 Feature: Tab Key 
+
 Feature: Usage of vi 
 
 Completed by Omar - 
