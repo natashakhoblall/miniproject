@@ -5,7 +5,7 @@ Natasha Khoblall and Omar Awad
 CHANGELOG: 
 
 
-COMPLETED BY NATASHA - 
+COMPLETED BY NATASHA -  [LINUX COMMANDS]
 
 Image: Example of history 
 
@@ -35,7 +35,7 @@ Feature: Usage of vi
 
 
 
-COMPLETED BY OMAR - 
+COMPLETED BY OMAR -  [GIT COMMANDS]
 
 Feature: Remote Add/Remove/Show
 
