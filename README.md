@@ -76,7 +76,7 @@ o	One of the main things about GitFlow is that it allows for parallel developmen
 Collaboration
 o	Gitflow also offers more collaboration and feature branches which makes it easier for two+ developers to collaborate on the same feature or enhancements. This process makes it easy for other developers to see and follow each collaboration effectively. 
 Support For Emergency Fixes
-o	GitFlow also supports something called ìhotfix branchesî. Essentially these hot fix branches can be useds to make an emergency change. 
+o	GitFlow also supports something called ‚Äúhotfix branches‚Äù. Essentially these hot fix branches can be useds to make an emergency change. 
 
 
 Commit-
@@ -110,7 +110,7 @@ A branch in Git is basically a small movable pointer to one of the commits. The 
 
 Status-
 
-o	Task: The git status command displays the state of the working directory and the staging area. It lets you see which changes have and havenít been staged as well as which files aren't being tracked by Git. 
+o	Task: The git status command displays the state of the working directory and the staging area. It lets you see which changes have and haven‚Äôt been staged as well as which files aren't being tracked by Git. 
 
 
 Checkout-
@@ -136,4 +136,16 @@ o	Task: Add - Adds a remote named for the repository at a certain address.
 
 Linux and the basic commands that you need to manage the file system:
 
-Questions to answer: What is it? Why do you do it? How do you do it?
+Path- 
+A file path provides a location in on a computer or on the internet. Directories and folders have paths to access files, images and programs. In Linux, users input path via commands and this tells the program which directories it can go into to locate files. 
+Example of a file path In linux: /home/User/bin 3/
+
+Tab key-
+Using the tab key to complete file paths - is beneficial because it allows you to quickly finish or suggest completion of a command without having to type it out entirely 
+
+Arrows-
+Using up and down arrow - allows you to view history of commands you have made, moving upward looks at commands recently used and moving downward looks at older history 
+
+Program Benefits- 
+Git, Docker, automated testing, and continuous integration are beneficial to a company because it creates a standard platform for development processes, where developers can connect and understand each other‚Äôs work. Git helps to keep track of changes in software development. All of these areas help to improve workflow. Automated testing ensures that positive outcomes are achieved and continuous integration ensures that developers‚Äô programming is shared. Companies can develop programs and software more efficiently and effectively by using these tools and can continue to build new programs based on previous work, ensuring that work tasks are not redundant. 
+
