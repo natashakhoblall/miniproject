@@ -88,9 +88,9 @@ Clone-
 Git Clone essentially clones your exiting repository and split it into another branch
 
 
-Fork-
+Fork--
 
-o	Task: When you are Forking a repository you are creating a copy of repository under the GitHub Id. Any changes made to the original repository will be reflected back to your forked repository. However, if you make any changes to your forked repository you will have to explicitly create a pull request to the original repository. When your pull request is approved by the administrator of the original repository, then your changes will be merged with the existing original code-base. Until then, your changes will be reflected only in the copy you forked.
+When you are Forking a repository you are creating a copy of repository under the GitHub Id. Any changes made to the original repository will be reflected back to your forked repository. However, if you make any changes to your forked repository you will have to explicitly create a pull request to the original repository. When your pull request is approved by the administrator of the original repository, then your changes will be merged with the existing original code-base. Until then, your changes will be reflected only in the copy you forked.
 
 
 Merge-
