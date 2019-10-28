@@ -140,12 +140,39 @@ Path-
 A file path provides a location in on a computer or on the internet. Directories and folders have paths to access files, images and programs. In Linux, users input path via commands and this tells the program which directories it can go into to locate files. 
 Example of a file path In linux: /home/User/bin 3/
 
+
 Tab key-
 Using the tab key to complete file paths - is beneficial because it allows you to quickly finish or suggest completion of a command without having to type it out entirely 
+
 
 Arrows-
 Using up and down arrow - allows you to view history of commands you have made, moving upward looks at commands recently used and moving downward looks at older history 
 
+
 Program Benefits- 
 Git, Docker, automated testing, and continuous integration are beneficial to a company because it creates a standard platform for development processes, where developers can connect and understand each other’s work. Git helps to keep track of changes in software development. All of these areas help to improve workflow. Automated testing ensures that positive outcomes are achieved and continuous integration ensures that developers’ programming is shared. Companies can develop programs and software more efficiently and effectively by using these tools and can continue to build new programs based on previous work, ensuring that work tasks are not redundant. 
 
+
+cd - 
+allows you to change the directory
+
+mkdir - 
+allows you to make a directory
+
+
+cp - 
+allows you to copy files to move to another place
+
+
+pwd - 
+allows you to print working directory
+
+
+mv - to move files
+
+
+rm - remove files
+
+
+history - 
+shows commands recently used
