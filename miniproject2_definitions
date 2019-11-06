@@ -28,3 +28,23 @@ o	CSV literally stands for comma separated variable, where the comma is what is 
 •	Reading Files
 o	When you use the open function, it returns something called a file object. File objects contain methods and attributes that can be used to collect information about the file you opened. Therefore, Python reads files in that specific way. 
 
+•	How Python uses Indentation to control Flow
+o	Python uses Indentation to control Flow which alters the order that the program runs. This serves as a structural format which creates blocks in different codes.
+
+•	Don't Repeat Yourself
+o	Don't Repeat Yourself (DRY) is a basic rule in programming to avoid redundancy because inputs must be unique in a system. Decorators can help stay DRY and improving codes.
+
+•	Design Patterns from Gang of Four
+o	Design Patterns from Gang of Four help to solve programming problems. The Gang of Four are authors Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides who wrote a software design patterns book. Examples are a proxy which is a placeholder, and template method which defines algorithm steps which can be changed.
+
+•	Class
+o	Class is the outline/plan for a program. The class can be instantiated to use attributes. 
+
+•	Object
+o	Object assist with defining parameters for the class. For example, when multiplying two numbers they act as inputs to create the object, and the object initiates the multiplication function.
+
+•	Static
+o	Static does not change an object or class and is bound to the class. Static can be used without an object.
+
+•	Property / Attribute
+o	Property / Attribute is a value or characteristic that is stored in an object.
