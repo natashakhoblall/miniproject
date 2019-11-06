@@ -1,1 +1,30 @@
 
+Mini Project 2 Definitions & Code
+
+•	Method
+o	A method in python is essentially a function that takes a class instance as its first parameter. Methods are essentially members of classes in the python programming language. 
+
+•	Exception
+o	Python has many built-in exceptions which forces your program to output an error when something goes wrong.	
+
+•	Unit Test
+o	Unit Testing is essentially the first of many levels when it comes to software testing where the smallest testable parts of a program are tested. Testing is used to validate that each unit of the software performs as it is designed to. 
+
+•	Constructor
+o	A constructor is a special kind of method that Python calls when it instantiates an object. This uses the definitions found in your class. Python relies on the constructor to perform tasks such as initializing any specific instance variables that the object will need when it starts.
+
+•	Factory
+o	Factory method is a creation design pattern which solves the problem of creating certain objects without specifying their classes. Factory Method defines a method, which should be used for creating objects instead of a direct constructor
+
+•	Decorator
+o	A decorator is a design pattern in Python that allows a user to add new functionality to an existing object without modifying its structure. 
+
+•	Extend Class
+o	Extend class or in other words inheritance allows programmers to create classes that are built upon existing classes. This essentially makes it possible that a class created through inheritance basically inherits the attributes and methods of the parent class. This overall means that inheritance supports code reusability. 
+
+•	CSV Files
+o	CSV literally stands for comma separated variable, where the comma is what is known as a delimiter.
+
+•	Reading Files
+o	When you use the open function, it returns something called a file object. File objects contain methods and attributes that can be used to collect information about the file you opened. Therefore, Python reads files in that specific way. 
+
