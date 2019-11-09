@@ -1,0 +1,1 @@
+Design Patterns from Gang of Four help to solve programming problems. The Gang of Four are authors Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides who wrote a software design patterns book. Examples are decorator, proxy which is a placeholder, and template method which defines algorithm steps which can be changed.
