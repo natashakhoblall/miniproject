@@ -1,0 +1,1 @@
+o	Factory method is a creation design pattern which solves the problem of creating certain objects without specifying their classes. Factory Method defines a method, which should be used for creating objects instead of a direct constructor
