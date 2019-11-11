@@ -1,0 +1,1 @@
+o	CSV literally stands for comma separated variable, where the comma is what is known as a delimiter.
