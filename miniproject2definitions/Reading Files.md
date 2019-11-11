@@ -1,0 +1,1 @@
+o	When you use the open function, it returns something called a file object. File objects contain methods and attributes that can be used to collect information about the file you opened. Therefore, Python reads files in that specific way. 
