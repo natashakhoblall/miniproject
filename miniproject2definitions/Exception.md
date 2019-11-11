@@ -1,0 +1,1 @@
+o	Python has many built-in exceptions which forces your program to output an error when something goes wrong.	
