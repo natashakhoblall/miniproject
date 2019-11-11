@@ -1,0 +1,1 @@
+o	Extend class or in other words inheritance allows programmers to create classes that are built upon existing classes. This essentially makes it possible that a class created through inheritance basically inherits the attributes and methods of the parent class. This overall means that inheritance supports code reusability. 
