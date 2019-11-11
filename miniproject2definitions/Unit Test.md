@@ -1,0 +1,1 @@
+o	Unit Testing is essentially the first of many levels when it comes to software testing where the smallest testable parts of a program are tested. Testing is used to validate that each unit of the software performs as it is designed to. 
